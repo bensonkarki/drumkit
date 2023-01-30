@@ -1,6 +1,6 @@
 # My Playable DrumKit Website
-- built off Udemy Course 
-- Built to learn more about: 
+- Built off Udemy Course 
+- Topics I learned more about: 
   - the Document Object Model
   - Switch Statements
   - Callbacks
